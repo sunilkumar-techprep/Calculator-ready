@@ -1,0 +1,35 @@
+  .main {
+  border: 5px solid white;
+  width: 300px;
+  }
+  table{
+     width: 100%;
+   }
+   td {
+     width:25%;
+   }
+  button{
+    width: 100%;
+    background-color:black;
+    color:white;
+    height: 72px;
+    font-size: 28px;
+   }       
+   input{
+     width: 99%;
+     height: 90px;
+     background-color: dimgray;
+     color:aliceblue;
+     font-size: 30px;
+     text-align: right;
+     padding-right: 20px;
+     font-weight: 700;
+     font-family: Arial, sans-serif;
+      }  
+     button:hover {
+     background-color:aliceblue;
+     color:blueviolet;
+     font-size: 28px;
+     transition: 0.3s ease-in-out;
+     }
+ 
